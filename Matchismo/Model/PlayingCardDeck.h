@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  PlayingCardDeck.h
 //  Matchismo
 //
 //  Created by Hegyi Hajnalka on 03/12/15.
 //  Copyright © 2015 Hegyi Hajnalka. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Deck.h"
 
-@interface ViewController : UIViewController
-
+@interface PlayingCardDeck : Deck
 
 @end
-
